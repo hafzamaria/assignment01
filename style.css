@@ -1,0 +1,45 @@
+.container{
+   background-color:  color:#38ada9 ;
+
+}
+
+.one{
+    background-color:#b8e994;
+}
+.head1{
+    border:2px solid#78e08f ;
+    background-color:white;
+    color: #079992;
+
+}
+.two{
+    color:whitesmoke ;
+    background-color:#78e08f ;
+    font-family: 'Times New Roman', Times, serif ;
+    
+}
+.black{
+    color: black;
+}
+.three{
+
+    list-style-type: square;
+}
+.three b{
+    color: black;
+}
+.four{
+    font-style: italic;
+}
+.five li{
+    list-style-type: lower-roman;
+     color:;
+    
+}
+.five{
+    color:blue;
+    font-weight: bold;
+}
+.six{
+    color:whitesmoke;
+}
